@@ -22,7 +22,7 @@ functions-
   deleteTask(*)
   addTask(*)
   
-  ![alt text](https://github.com/adarshal/CodingNinja/Frontend/js proj/Todo app/to do app.JPG?raw=true)
+  ![alt text](https://github.com/adarshal/CodingNinja/Frontend/js_proj/Todo_app/to_do_app.JPG?raw=true)
   
    
   
