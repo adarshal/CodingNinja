@@ -22,8 +22,8 @@ functions-
   deleteTask(*)
   addTask(*)
   
-  ![alt text](https://github.com/adarshal/CodingNinja/Frontend/js_proj/Todo_app/to_do_app.JPG?raw=true)
   
    
   
-  
+  ![to do app](https://user-images.githubusercontent.com/89533221/200423779-ec99f39e-9121-4305-93fe-4eb747a01fc4.JPG)
+
