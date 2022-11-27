@@ -1,0 +1,1 @@
+console.log('Assets . home.js loaded');

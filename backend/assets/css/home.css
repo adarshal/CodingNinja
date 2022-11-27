@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    
+}
+
+#heading{
+  text-decoration: solid;  
+  color: blueviolet;
+}
+
+h1{
+    display: inline-block;
+}
+
+.head-div i {
+    font-size: 2rem;
+    padding-right: 1rem;;
+}
+
+ul{
+    list-style-type:none;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table{
+    width:20rem;
+    /* margin: auto; */
+    background-color: rgb(8, 159, 219);
+    color:beige;
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0.05rem solid seashell;
+    border-radius: 0.5rem;
+    
+}
+table td{
+    padding-bottom: 0.25rem;
+}
+td i{
+    color: rgb(222, 98, 98);
+    padding-left: 0.5rem;;
+}
+table:hover{
+    background-color: lightgray;
+    color: black;
+    border:0px lightgray;;
+}
+td i:hover{
+    scale: 1.5;
+}
+.contact-name{
+    text-align: left;
+}
+
+input{
+    background-color: #d0f7df;
+    border-radius: 1rem;
+    margin-top: 1rem;;
+}
+

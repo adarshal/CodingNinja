@@ -1,0 +1,33 @@
+<html>
+    <head>
+<title>
+    <%= title %> 
+    <!-- also here you can use  <%= locals.title %>  as are objects are inside local obj -->
+</title>
+    </head>
+
+    <body>
+        <h2>Hi , you are in playground</h2>
+
+        <ul>
+            <% for (let i=1;i<6;i++){ %>   
+                 <!-- you have to write code just lik js but in evry line need to add <% %> -->
+                 <li>
+                    This is  <%= i %>  item
+                 </li>
+
+
+           <% } %>
+
+        </ul>
+
+        <% if(true) { %>
+            <h4> it is true</h4>
+            <% } else { %>
+                <h2> It is false</h2>
+                <% } %>
+
+
+
+    </body>
+</html>
